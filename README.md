@@ -220,7 +220,6 @@ This registry operates within existing GDPR/CCPA frameworks by creating a due di
 
 [![Deploy Now](https://img.shields.io/badge/Deploy-Now-success?style=for-the-badge&logo=rocket)](./scripts/setup.sh)
 [![Star on GitHub](https://img.shields.io/badge/Star-on_GitHub-yellow?style=for-the-badge&logo=github)](https://github.com/xbard-C42/privacy-rights-registry)
-[![Contact Green Party](https://img.shields.io/badge/Contact-Green_Party-169b62?style=for-the-badge)](mailto:info@greenparty.ie)
 
 ---
 
